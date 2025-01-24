@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.9.0](https://github.com/NFDI4Chem/nmrium-react-wrapper/compare/v0.8.0...v0.9.0) (2025-01-24)
+
+
+### Features
+
+* update NMRium to version 0.59.0 ([9ce10e2](https://github.com/NFDI4Chem/nmrium-react-wrapper/commit/9ce10e2af987de866da733e821cd243e0c00d273))
+* validate origins based on hostnames ([57edf5c](https://github.com/NFDI4Chem/nmrium-react-wrapper/commit/57edf5c52fc75adbc4c4007bdc65a71e9cded528)), closes [#223](https://github.com/NFDI4Chem/nmrium-react-wrapper/issues/223)
+
+
+### Bug Fixes
+
+* correct invalid url in the whitelist ([5d32319](https://github.com/NFDI4Chem/nmrium-react-wrapper/commit/5d323193724c134cecb1d5a0de28b1e8695a3498))
+
 ## [1.0.0](https://github.com/NFDI4Chem/nmrium-react-wrapper/compare/v0.9.0...v1.0.0) (2024-06-21)
 
 
